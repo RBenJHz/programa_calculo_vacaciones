@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: @RBenJHz (RJ)
+Main-Class: Bienvenida
+X-COMMENT: Ejercicio práctico curso java desde cero. Simulador ficticio programa cálculo de vacaciones Coca-Cola Company.
